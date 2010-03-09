@@ -17,6 +17,7 @@
 ;;; TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 ;;; PERFORMANCE OF THIS SOFTWARE.
 
+#!chezscheme
 (library (oleg sxml-to-xhtml)
   (export
     sxml->xhtml
